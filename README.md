@@ -12,7 +12,8 @@
   *  Test runner file that link feature file and step definition file.   
 * [Step Definition](https://github.com/wohu8292/APITesting_Portfolio_DemoProject/blob/master/src/test/java/step_definitions/stepDefinition1.java)
   *  Actual codes corresponding to gherkin syntax in the feature file are here. 
-
+* [Result Logging](https://github.com/wohu8292/APITesting_Portfolio_DemoProject/blob/master/logging.txt)
+  *  Test Result. You can see all the info from API interaction such as status code, header, body, request method, and token ID
 
 --------------
 
